@@ -2,7 +2,6 @@
 using namespace std;
 #define ll long long
 
-
 int main() {
 	ll n, s = 0;
 	cin >> n;
