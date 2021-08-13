@@ -8,3 +8,7 @@
 # Vim 
 *.cpp~
 *.cpp.un~
+*.un~
+
+gray_color_temp.cpp
+template.cpp
